@@ -1,0 +1,36 @@
+#log-table td {
+  width: auto;
+}
+
+#log-table #actions {
+  width: 14%;
+}
+
+#log-table #request {
+  width: 135px;
+}
+
+#log-list #log-list-body {
+  height: 700px;
+  overflow-y: scroll;
+}
+
+#log-list-header {
+  text-align: center;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+#log-list-body #log-list-actions-search {
+  text-align: center;
+  cursor: pointer;
+  position: absolute;
+  right: 5px;
+  padding-left: 10px;
+}
+
+#log-list-body #log-list-panel-search {
+  margin-bottom: 20px;
+}

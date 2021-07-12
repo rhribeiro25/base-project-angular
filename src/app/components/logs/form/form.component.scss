@@ -1,0 +1,24 @@
+#form-content {
+  margin: auto;
+  margin-bottom: 0;
+  height: 650px !important;
+}
+
+#log-form-actions {
+  width: 200px;
+  height: 75px;
+  line-height: 75px;
+  text-align: center;
+  cursor: pointer;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+
+#log-form-header {
+  text-align: center;
+}
+
+#form-content #save {
+  margin-right: 5px;
+}
