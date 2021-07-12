@@ -60,6 +60,7 @@ Obs: Ficaríamos impressionados se seu projeto levasse em conta uma arquitetura 
 - Should have Visual Studio Code
 - You need to update npm dependencies, using ```npm install```
 - Run project using ```npm start```
+- Access the application in the brouser with http://localhost:4200/logs
 
 ## Credentials
 
