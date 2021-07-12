@@ -54,7 +54,7 @@ Obs: Ficaríamos impressionados se seu projeto levasse em conta uma arquitetura 
 - Postman
 - Tslint
 
-## Starting the project by IntelliJ
+## Starting the project by Viasual Studio Code
 
 - Should have Node.js 12 installed and configured
 - Should have Visual Studio Code
